@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "header",
   "name": "Header Group",
@@ -48,10 +57,10 @@
         "37d4f863-aecd-4a86-87c1-a5887bf87140": {
           "type": "mobile",
           "settings": {
-            "container_max_width": "",
-            "logo": "shopify:\/\/shop_images\/ks-bootshop-logo.png",
+            "container_max_width": "SAB MILEGA BRO",
+            "logo": "shopify:\/\/shop_images\/0_9.webp",
             "logo_height": 30,
-            "main_menu": "dropdown-menu",
+            "main_menu": "",
             "collections_menu": "",
             "social_icons": true,
             "pt": 2,
@@ -61,10 +70,10 @@
         "069e870e-aed4-4929-bf73-c0daca8be18e": {
           "type": "desktop",
           "settings": {
-            "container_max_width": "",
-            "logo": "shopify:\/\/shop_images\/ks-bootshop-logo.png",
+            "container_max_width": "SAB MILEGA",
+            "logo": "shopify:\/\/shop_images\/0_9.webp",
             "logo_height": 32,
-            "main_menu": "dropdown-menu",
+            "main_menu": "",
             "pt": 5,
             "pb": 5
           }
